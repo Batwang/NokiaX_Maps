@@ -1,0 +1,16 @@
+<LinearLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:orientation="vertical" >
+
+    <fragment
+		     	class="com.here.android.mapping.MapCompatibilityFragment"
+		        android:id="@+id/map"
+		        android:layout_width="match_parent" 
+		        android:layout_height="fill_parent"
+		        /> 
+		        
+
+</LinearLayout>
