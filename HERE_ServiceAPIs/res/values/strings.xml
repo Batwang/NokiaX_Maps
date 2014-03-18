@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HERE Service API examples</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="no_demos">No demoes found!</string>
+    
+
+    <string name="hellogeo_title">Hello Geocode</string>
+    <string name="hellogeo_description">Simple Geocoding example.</string>
+    <string name="geocode_title">Geocode</string>
+    <string name="geocode_description">geocoding example.</string>
+    <string name="geocodeadd_title">Geocode address</string>
+    <string name="geocodeadd_description">Simple geocoding with address example.</string>
+    <string name="revgeo_title">Reverce Geocode</string>
+    <string name="revgeo_description">ReverceGeocoding example.</string>
+    <string name="searchmap_title">Search map</string>
+    <string name="searchmap_description">Search map example.</string>
+    <string name="exploremap_title">Explore map</string>
+    <string name="exploremap_description">Explore map example.</string>
+    <string name="exploreradius_title">Explore radius</string>
+    <string name="exploreradius_description">Explore map with Radius example.</string>
+    <string name="whatshere_title">Whats here search</string>
+    <string name="whatshere_description">Whats here search example.</string>
+    <string name="textsuggestion_title">Text suggestions</string>
+    <string name="textsuggestion_description">Text suggestions example.</string>
+    <string name="mypos_title">My position</string>
+    <string name="mypos_description">My position example.</string>
+    <string name="simplerouting_title">Simple routing</string>
+    <string name="simplerouting_description">Simple routing example.</string>
+    <string name="streetlev_title">Streen level</string>
+    <string name="streetlev_description">Streen level example.</string>
+    <string name="venues_title">Venues</string>
+    <string name="venues_description">Venues example.</string>
+    <string name="mapextras_title">Map extras</string>
+    <string name="mapextras_description">Map extras example.</string>
+    <string name="maptransit_title">Map Transit</string>
+    <string name="maptransit_description">Map Transit example.</string>
+    
+   
+    
+    
+    <string name="house_no">house no.</string>
+    <string name="street">Street</string>
+    <string name="postal_code">postal code</string>
+    <string name="city">city</string>
+    <string name="country_code">country code</string>
+    
+    <string name="none">None</string>
+    <string name="box">Box</string>
+    <string name="radius">Radius</string>
+    
+    
+    <string name="explore">Explore</string>
+    
+    <string name="cat_all">ALL</string>
+    <string name="cat_acc">ACCOMMODATION</string>
+    <string name="cat_adm">ADMINISTRATIVE_AREAS_BUILDINGS</string>
+	<string name="cat_bus">BUSINESS_SERVICES</string>
+	<string name="cat_edr">EAT_DRINK</string>
+	<string name="cat_fac">FACILITIES</string>
+	<string name="cat_goo">GOING_OUT</string>
+	<string name="cat_leo">LEISURE_OUTDOOR</string>
+	<string name="cat_nag">NATURAL_GEOGRAPHICAL</string>
+	<string name="cat_sho">SHOPPING</string>
+	<string name="cat_sim">SIGHTS_MUSEUMS</string>
+	<string name="cat_tra">TRANSPORT</string>
+    
+    <string-array name="cat_array">
+        <item>@string/cat_all</item>
+    	<item>@string/cat_acc</item>
+    	<item>@string/cat_adm</item>
+		<item>@string/cat_bus</item>
+    	<item>@string/cat_edr</item>
+    	<item>@string/cat_fac</item>
+    	<item>@string/cat_goo</item>
+    	<item>@string/cat_leo</item>
+    	<item>@string/cat_nag</item>
+    	<item>@string/cat_sho</item>
+    	<item>@string/cat_sim</item>
+    	<item>@string/cat_tra</item>
+  	</string-array>
+    
+    <string name="STOPS_AND_ACCESSES">STOPS AND ACCESSES</string>
+    <string name="EVERYTHING">EVERYTHING</string>
+    <string name="NOTHING">NOTHING</string>
+   
+    <string-array name="transit_array">
+        <item>@string/STOPS_AND_ACCESSES</item>
+    	<item>@string/EVERYTHING</item>
+    	<item>@string/NOTHING</item>
+  	</string-array>
+    
+    <string name="add_address">add address</string>
+    <string name="geocode">Geocode</string>
+    <string name="go">Go</string>
+    <string name="search">Search</string>
+    <string name="add_search_text">Search text</string>
+    
+    <string name="Start">Start</string>
+    <string name="Stop">Stop</string>
+    <string name="not_available">NA</string>
+   	<string name="GPS">GPS</string>
+   	<string name="GPS_NETWORK">BOTH</string>
+   	<string name="NETWORK">NW</string>
+   	<string name="NONE">NONE</string>
+   	<string name="AVAILABLE">AVAILABLE</string>
+   	<string name="OUT_OF_SERVICE">OoS</string>
+   	<string name="TEMPORARILY_UNAVAILABLE">TUnA</string>
+
+   	
+   	<string name="drive">Drive</string>
+   	<string name="walk">Walk</string>
+   	<string name="ptpt">Public</string>
+   	<string name="Update">Update</string>
+   	
+   	<string name="Landmarks">Landmarks</string>
+   	<string name="Traffic">Traffic</string>
+   	<string name="Extruded">Extruded</string>
+   	<string name="Venues">Venues</string>
+   	<string name="StreetLevel">StreetLevel</string>
+   	<string name="Embedded">Embedded</string>
+   		
+   	 
+   	
+</resources>
